@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "431206013009",
+    "project_id": "cleanmovefirebase",
+    "storage_bucket": "cleanmovefirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431206013009:android:ad7a98822283f330674070",
+        "android_client_info": {
+          "package_name": "com.shaligram.transport.shaligram_transport_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoPcTWt6DNM0pIT6o1srpwrQN0Y5mdruI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
